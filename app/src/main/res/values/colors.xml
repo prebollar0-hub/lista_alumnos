@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta principal: Azul (Primary) -->
+    <color name="blue_primary">#1565C0</color>
+    <color name="blue_primary_dark">#0D47A1</color>
+    <color name="blue_primary_container">#E3F2FD</color>
+    <color name="on_blue_primary_container">#0D47A1</color>
+
+    <!-- Paleta secundaria: Verde (Secondary) -->
+    <color name="green_secondary">#2E7D32</color>
+    <color name="green_secondary_container">#E8F5E9</color>
+    <color name="on_green_secondary_container">#1B5E20</color>
+
+    <!-- Paleta de acento/FAB: Naranja (Tertiary) -->
+    <color name="orange_accent">#FB8C00</color>
+    <color name="orange_accent_dark">#E65100</color>
+    <color name="orange_container">#FFF3E0</color>
+    <color name="on_orange_container">#E65100</color>
+
+    <!-- Colores neutros y de fondo -->
+    <color name="background_light">#F8F9FA</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="red_delete">#D32F2F</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

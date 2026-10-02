@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Control de Alumnos</string>
+
+    <!-- Pantalla Principal -->
+    <string name="title_main">Listado de Alumnos</string>
+    <string name="empty_list_title">No hay alumnos registrados</string>
+    <string name="empty_list_subtitle">Presiona el botón + para registrar un nuevo alumno.</string>
+    <string name="fab_add_student">Agregar alumno</string>
+    <string name="cd_edit_student">Editar alumno</string>
+    <string name="cd_delete_student">Eliminar alumno</string>
+
+    <!-- Formulario de Alumno -->
+    <string name="title_add_student">Nuevo Alumno</string>
+    <string name="title_edit_student">Editar Alumno</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_cuenta">Número de cuenta</string>
+    <string name="account_label_format">Cuenta: %1$s</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_imagen">URL de la foto de perfil</string>
+    <string name="btn_save">Guardar Alumno</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="image_preview_title">Vista previa de la foto</string>
+
+    <!-- Errores de Validación -->
+    <string name="error_field_required">Este campo es obligatorio</string>
+    <string name="error_invalid_email">Ingresa un correo electrónico válido</string>
+    <string name="error_invalid_account">La cuenta debe contener solo números (mínimo 6 dígitos)</string>
+    <string name="error_duplicate_account">Este número de cuenta ya se encuentra registrado</string>
+    <string name="error_invalid_image_url">Por favor ingresa una URL válida para la imagen</string>
+
+    <!-- Mensajes y Diálogos -->
+    <string name="delete_dialog_title">¿Eliminar alumno?</string>
+    <string name="delete_dialog_message">¿Estás seguro de que deseas eliminar a %1$s? Esta acción no se puede deshacer.</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="msg_student_saved">Alumno guardado correctamente</string>
+    <string name="msg_student_updated">Alumno actualizado correctamente</string>
+    <string name="msg_student_deleted">Alumno eliminado correctamente</string>
+    <string name="msg_error_saving">Ocurrió un error al guardar el alumno</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ListaAlumnos" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colores Primarios (Azul) -->
+        <item name="colorPrimary">@color/blue_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/blue_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/on_blue_primary_container</item>
+
+        <!-- Colores Secundarios (Verde) -->
+        <item name="colorSecondary">@color/green_secondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">@color/green_secondary_container</item>
+        <item name="colorOnSecondaryContainer">@color/on_green_secondary_container</item>
+
+        <!-- Colores Terciarios/Acento (Naranja) -->
+        <item name="colorTertiary">@color/orange_accent</item>
+        <item name="colorOnTertiary">@color/white</item>
+        <item name="colorTertiaryContainer">@color/orange_container</item>
+        <item name="colorOnTertiaryContainer">@color/on_orange_container</item>
+
+        <!-- Fondos y ventanas -->
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+
+    <style name="Theme.ListaAlumnos" parent="Base.Theme.ListaAlumnos" />
+</resources>
